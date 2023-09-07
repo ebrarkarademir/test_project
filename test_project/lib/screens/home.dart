@@ -31,7 +31,16 @@ class Home extends StatelessWidget {
           Container(
             width: 40,
             height: 40,
-            color: Colors.black,
+            decoration: BoxDecoration(
+              color: Colors.black,
+              image: const DecorationImage(
+                image: AssetImage(
+                    'assets/images/76682003.jpeg'), // Replace with the actual path to your photo asset
+                fit: BoxFit.cover, // You can change the fit mode as needed
+              ),
+              borderRadius:
+                  BorderRadius.circular(20), // Optional: Add rounded corners
+            ),
           )
         ],
       ),
