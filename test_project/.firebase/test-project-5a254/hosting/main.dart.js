@@ -69882,7 +69882,7 @@ $0(){return this.a.a0F(this.b)},
 $S:0}
 A.oC.prototype={
 L(a){var s=null
-return A.agq(A.adZ(s,s,A.j0("New Page",s,s,s,s,s,s)),s,A.rr(A.j0("This is a new page!",s,s,s,s,s,s),s,s))}}
+return A.agq(A.adZ(s,s,A.j0("New Page",s,s,s,s,s,s)),s,A.rr(A.j0("This is a new page! Click on me! Please! ;;;",s,s,s,s,s,s),s,s))}}
 A.P9.prototype={
 L(a){var s=null
 return A.nP(s,B.J9,B.y,s,new A.cD(B.j,s,s,A.Qf(20),s,s,B.aG),s,s,B.kM,s)}}
