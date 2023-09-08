@@ -78,8 +78,8 @@ class NewPage extends StatelessWidget {
         title: Text('New Page'),
       ),
       body: Center(
-        child:
-            Text('This is a new page! Click on me! Please! ;;ssssss; asdasd'),
+        child: Text(
+            'This is a new page! Click on me! Please! ;;ssssss; asdasasdasdasdd'),
       ),
     );
   }
