@@ -75,7 +75,7 @@ class NewPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('New Page'),
+        title: Text('New Page asdasdasd'),
       ),
       body: Center(
         child:
