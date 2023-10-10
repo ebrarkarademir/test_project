@@ -25,7 +25,7 @@ class _MyAppState extends State<MyApp> {
     BlogPage()
   ];
 
-  final _pageNames = ['Home', 'Portfolio', 'CV', 'Contact', 'Blog'];
+  final _pageNames = ['Home', 'Portfolio', 'CV', 'Contact', 'Blog Page'];
 
   @override
   Widget build(BuildContext context) {
